@@ -39,9 +39,9 @@
 
 <div align="center">
 
-![owornex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=owornex&show_icons=true&theme=radical&hide=stars&count_private=true)
+![Erick Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickdevit&show_icons=true&theme=radical&hide=stars&count_private=true)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owornex&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickdevit&layout=compact&theme=radical)
 
 </div>
 
