@@ -33,19 +33,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Erick Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickdevit&show_icons=true&theme=radical&hide=stars&count_private=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickdevit&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 🏗️ Meus projetos e áreas de atuação
 
