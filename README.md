@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o <strong>Erick</strong></h1>
+<h1 align="center">Olá, sou o <strong>Erick</strong></h1>
 
 <p align="left">
 Entusiasta de tecnologia, apaixonado por soluções inteligentes e automações.<br>
